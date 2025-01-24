@@ -1,6 +1,6 @@
 ### Hello there 👋
 - 📖 Currently studying at Northeastern University
-- 🔭 I’m currently working on A Financial Expense Tracker
+- 🔭 I’m currently working on a Financial Expense Tracker
 <!--
 **reecedigiacomo/reecedigiacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
