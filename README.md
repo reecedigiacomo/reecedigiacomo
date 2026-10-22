@@ -2,8 +2,6 @@
 
 CS + Math @ Northeastern, Class of 2027
 
-Building ML systems and the data pipelines underneath them.
-
 [LinkedIn](https://www.linkedin.com/in/reecedigiacomo/)
 
 ---
