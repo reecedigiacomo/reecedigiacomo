@@ -1,6 +1,6 @@
 # Reece DiGiacomo
 
-Northeastern University - Computer Science and Mathematics, Class of 2027
+CS + Math @ Northeastern, Class of 2027
 
 Building ML systems and the data pipelines underneath them.
 
